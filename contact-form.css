@@ -1,0 +1,33 @@
+.bg {
+    background-color: #f0f0f0;
+    width: 400px;
+    height: 375px;
+    margin: auto;
+}
+
+h3 {
+    background-color: #2bddc5;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.for input {
+    width: 90%;
+    padding:10px;
+    margin:15px 20px;
+    display: block;
+}
+.for input[type=submit]{
+    background-color:#2bddc5 ;
+    color: white;
+    border: none;
+}
+ #msg{
+    width: 90%;
+    height: 20%;
+    padding:12px;
+    margin:0px 20px;
+    font-family: sans-serif;
+}
